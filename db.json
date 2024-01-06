@@ -1,0 +1,202 @@
+{
+  "jobs": [
+    {
+      "id": 2,
+      "position": "Frontend Developer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Open for Applications",
+      "type": "Full-Time",
+      "date": "4/5/2023"
+    },
+    {
+      "id": 4,
+      "position": "UI/UX Designer",
+      "company": "Creative Designs",
+      "location": "New York",
+      "status": "Interviews",
+      "type": "Full-Time",
+      "date": "4/15/2023"
+    },
+    {
+      "id": 5,
+      "position": "Software Engineer",
+      "company": "CodeCrafters",
+      "location": "Istanbul",
+      "status": "Open for Applications",
+      "type": "Full-Time",
+      "date": "4/20/2023"
+    },
+    {
+      "id": 6,
+      "position": "DevOps Engineer",
+      "company": "CloudOps",
+      "location": "England",
+      "status": "Interviews",
+      "type": "Full-Time",
+      "date": "4/25/2023"
+    },
+    {
+      "id": 7,
+      "position": "Mobile App Developer",
+      "company": "AppMasters",
+      "location": "New York",
+      "status": "Application Closed",
+      "type": "Full-Time",
+      "date": "5/1/2023"
+    },
+    {
+      "id": 8,
+      "position": "IT Support Specialist",
+      "company": "IT Solutions",
+      "location": "New York",
+      "status": "Open for Applications",
+      "type": "Part-Time",
+      "date": "5/5/2023"
+    },
+    {
+      "id": 9,
+      "position": "Product Manager",
+      "company": "InnovateHub",
+      "location": "New York",
+      "status": "Interviews",
+      "type": "Full-Time",
+      "date": "5/10/2023"
+    },
+    {
+      "id": 10,
+      "position": "Cybersecurity Analyst",
+      "company": "SecureNet",
+      "location": "New York",
+      "status": "Application Closed",
+      "type": "Full-Time",
+      "date": "5/15/2023"
+    },
+    {
+      "position": "UI/UX Designer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Interviews",
+      "type": "Full-Time",
+      "id": "4c3ec3dc-efe0-4304-8fd3-4c19f20fe56f",
+      "date": "12/29/2023"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Interviews",
+      "type": "Full-Time",
+      "id": "913ffd13-4564-4091-870b-c45ea2a3ed65",
+      "date": "12/29/2023"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Application Closed",
+      "type": "Full-Time",
+      "id": "ee2cb8a5-7d72-4a84-85ba-cb4b51e22b50",
+      "date": "12/29/2023"
+    },
+    {
+      "position": "UI/UX Designer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Open for Applications",
+      "type": "Part-Time",
+      "id": "57a8eebe-af16-418b-b3c4-3945a4eeb25b",
+      "date": "12/31/2023"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Application Closed",
+      "type": "Hyrid",
+      "id": "bf19bcfc-cc9f-4a63-9378-0d1aa13f156d",
+      "date": "12/31/2023"
+    },
+    {
+      "position": "UI/UX Designer",
+      "company": "Creative Designs",
+      "location": "New York",
+      "status": "Application Closed",
+      "type": "Remote",
+      "id": "1e629f02-8dc1-48d4-b185-1ab6d7c6a95b",
+      "date": "12/31/2023"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Application Closed",
+      "type": "Full-Time",
+      "id": "073221df-b94d-450e-b190-a36e3b3ede82",
+      "date": "12/31/2023"
+    },
+    {
+      "position": "UI/UX Designer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Interviews",
+      "type": "Full-Time",
+      "id": "6a7de951-5577-4c98-abee-aee4534cbd7e",
+      "date": "12/31/2023"
+    },
+    {
+      "position": "UI/UX Designer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Open for Applications",
+      "type": "Remote",
+      "id": "41c8a87b-8947-48da-872f-abdb003af92c",
+      "date": "1/2/2024"
+    },
+    {
+      "position": "UI/UX Designer",
+      "company": "TechCo",
+      "location": "New York",
+      "status": "Open for Applications",
+      "type": "Remote",
+      "id": "06a7036c-f347-4f87-bf5e-abcebd2efd2f",
+      "date": "1/2/2024"
+    },
+    {
+      "position": "Cybersecurity Analyst",
+      "company": "SecureNet",
+      "location": "New York",
+      "status": "Interviews",
+      "type": "Hyrid",
+      "id": "1d5f0dcb-577d-4aff-9c23-dd5a0194c919",
+      "date": "1/2/2024"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "SecureNet",
+      "location": "London",
+      "status": "Interviews",
+      "type": "Remote",
+      "id": "867a40e1-2bb0-4bad-aa24-b77271be6a59",
+      "date": "1/2/2024"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Creative Designs",
+      "location": "London",
+      "status": "Open for Applications",
+      "type": "Part-Time",
+      "id": "c0440026-ac6c-4bbf-a961-0a64ea007b3d",
+      "date": "1/2/2024"
+    },
+    {
+      "position": "IT Support Specialist",
+      "company": "InnovateHub",
+      "location": "London",
+      "status": "Interviews",
+      "type": "Hyrid",
+      "id": "e83cda77-0ecb-4ef8-8386-6aec204004b4",
+      "date": "1/2/2024"
+    }
+  ]
+}
